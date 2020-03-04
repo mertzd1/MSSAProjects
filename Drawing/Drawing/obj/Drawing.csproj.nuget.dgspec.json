@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\donal\\OneDrive\\MSSA\\ISTA 220\\Microsoft Press\\VCSBS\\Chapter 13\\Drawing\\Drawing\\Drawing.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\donal\\OneDrive\\MSSA\\ISTA 220\\Microsoft Press\\VCSBS\\Chapter 13\\Drawing\\Drawing\\Drawing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\donal\\OneDrive\\MSSA\\ISTA 220\\Microsoft Press\\VCSBS\\Chapter 13\\Drawing\\Drawing\\Drawing.csproj",
+        "projectName": "Drawing",
+        "projectPath": "C:\\Users\\donal\\OneDrive\\MSSA\\ISTA 220\\Microsoft Press\\VCSBS\\Chapter 13\\Drawing\\Drawing\\Drawing.csproj",
+        "packagesPath": "C:\\Users\\donal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\donal\\OneDrive\\MSSA\\ISTA 220\\Microsoft Press\\VCSBS\\Chapter 13\\Drawing\\Drawing\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\donal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.18362"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://packagesource": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.18362": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.18362": {
+          "dependencies": {
+            "Microsoft.ApplicationInsights": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.ApplicationInsights.PersistenceChannel": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.ApplicationInsights.WindowsApps": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
