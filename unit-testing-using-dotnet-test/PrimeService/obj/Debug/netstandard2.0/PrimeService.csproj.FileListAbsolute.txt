@@ -1,0 +1,8 @@
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\unit-testing-using-dotnet-test\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\unit-testing-using-dotnet-test\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
