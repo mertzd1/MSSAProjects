@@ -2,7 +2,7 @@
 using Prime.Services;
 
 namespace Prime.UnitTests.Services
-{
+{   //this is the test that determines if the method PrimeService works properly
     public class PrimeService_IsPrimeShould
     {
         private readonly PrimeService _primeService;
@@ -11,7 +11,7 @@ namespace Prime.UnitTests.Services
         {
             _primeService = new PrimeService();
         }
-
+        //This will pass if I input a nonPrime number
        [Theory]
        [InlineData(4)]
        [InlineData(9)]
@@ -23,7 +23,7 @@ namespace Prime.UnitTests.Services
             Assert.False(result, $"{value} should not be prime");
         }
 
-
+        //this test will pass if I input a prime number
         [Theory]
         [InlineData(2)]
         [InlineData(3)]
