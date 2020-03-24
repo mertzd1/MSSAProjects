@@ -1,0 +1,11 @@
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\NumSortArray\bin\Debug\netcoreapp3.1\NumSortArray.exe
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\NumSortArray\bin\Debug\netcoreapp3.1\NumSortArray.deps.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\NumSortArray\bin\Debug\netcoreapp3.1\NumSortArray.runtimeconfig.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\NumSortArray\bin\Debug\netcoreapp3.1\NumSortArray.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\NumSortArray\bin\Debug\netcoreapp3.1\NumSortArray.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\NumSortArray\bin\Debug\netcoreapp3.1\NumSortArray.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\NumSortArray\obj\Debug\netcoreapp3.1\NumSortArray.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\NumSortArray\obj\Debug\netcoreapp3.1\NumSortArray.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\NumSortArray\obj\Debug\netcoreapp3.1\NumSortArray.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\NumSortArray\obj\Debug\netcoreapp3.1\NumSortArray.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\NumSortArray\obj\Debug\netcoreapp3.1\NumSortArray.pdb

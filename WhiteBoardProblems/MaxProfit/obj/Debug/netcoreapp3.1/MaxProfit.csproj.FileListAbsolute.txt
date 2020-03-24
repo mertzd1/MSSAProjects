@@ -1,0 +1,11 @@
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\MaxProfit\bin\Debug\netcoreapp3.1\MaxProfit.exe
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\MaxProfit\bin\Debug\netcoreapp3.1\MaxProfit.deps.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\MaxProfit\bin\Debug\netcoreapp3.1\MaxProfit.runtimeconfig.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\MaxProfit\bin\Debug\netcoreapp3.1\MaxProfit.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\MaxProfit\bin\Debug\netcoreapp3.1\MaxProfit.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\MaxProfit\bin\Debug\netcoreapp3.1\MaxProfit.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\MaxProfit\obj\Debug\netcoreapp3.1\MaxProfit.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\MaxProfit\obj\Debug\netcoreapp3.1\MaxProfit.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\MaxProfit\obj\Debug\netcoreapp3.1\MaxProfit.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\MaxProfit\obj\Debug\netcoreapp3.1\MaxProfit.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\MaxProfit\obj\Debug\netcoreapp3.1\MaxProfit.pdb

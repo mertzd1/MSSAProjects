@@ -1,0 +1,11 @@
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.exe
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.deps.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.runtimeconfig.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\CountCharsInAString\bin\Debug\netcoreapp3.1\CountCharsInAString.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\CountCharsInAString\obj\Debug\netcoreapp3.1\CountCharsInAString.pdb

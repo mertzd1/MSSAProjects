@@ -1,0 +1,13 @@
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\String1StartString2Bool\bin\Debug\netcoreapp3.1\String1StartString2Bool.exe
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\String1StartString2Bool\bin\Debug\netcoreapp3.1\String1StartString2Bool.deps.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\String1StartString2Bool\bin\Debug\netcoreapp3.1\String1StartString2Bool.runtimeconfig.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\String1StartString2Bool\bin\Debug\netcoreapp3.1\String1StartString2Bool.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\String1StartString2Bool\bin\Debug\netcoreapp3.1\String1StartString2Bool.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\String1StartString2Bool\bin\Debug\netcoreapp3.1\String1StartString2Bool.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\String1StartString2Bool\obj\Debug\netcoreapp3.1\String1StartString2Bool.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\String1StartString2Bool\obj\Debug\netcoreapp3.1\String1StartString2Bool.csproj.CoreCompileInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\String1StartString2Bool\obj\Debug\netcoreapp3.1\String1StartString2Bool.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\String1StartString2Bool\obj\Debug\netcoreapp3.1\String1StartString2Bool.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\String1StartString2Bool\obj\Debug\netcoreapp3.1\String1StartString2Bool.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\String1StartString2Bool\obj\Debug\netcoreapp3.1\String1StartString2Bool.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\String1StartString2Bool\obj\Debug\netcoreapp3.1\String1StartString2Bool.genruntimeconfig.cache

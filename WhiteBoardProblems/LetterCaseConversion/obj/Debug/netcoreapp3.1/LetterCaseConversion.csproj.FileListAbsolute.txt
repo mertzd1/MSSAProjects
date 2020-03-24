@@ -1,0 +1,22 @@
+C:\Users\donal\OneDrive\MSSA\ISTA 220\LetterCaseConversion\obj\Debug\netcoreapp3.1\LetterCaseConversion.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\MSSA\ISTA 220\LetterCaseConversion\obj\Debug\netcoreapp3.1\LetterCaseConversion.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\ISTA 220\LetterCaseConversion\obj\Debug\netcoreapp3.1\LetterCaseConversion.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\ISTA 220\LetterCaseConversion\bin\Debug\netcoreapp3.1\LetterCaseConversion.exe
+C:\Users\donal\OneDrive\MSSA\ISTA 220\LetterCaseConversion\bin\Debug\netcoreapp3.1\LetterCaseConversion.deps.json
+C:\Users\donal\OneDrive\MSSA\ISTA 220\LetterCaseConversion\bin\Debug\netcoreapp3.1\LetterCaseConversion.runtimeconfig.json
+C:\Users\donal\OneDrive\MSSA\ISTA 220\LetterCaseConversion\bin\Debug\netcoreapp3.1\LetterCaseConversion.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\MSSA\ISTA 220\LetterCaseConversion\bin\Debug\netcoreapp3.1\LetterCaseConversion.dll
+C:\Users\donal\OneDrive\MSSA\ISTA 220\LetterCaseConversion\bin\Debug\netcoreapp3.1\LetterCaseConversion.pdb
+C:\Users\donal\OneDrive\MSSA\ISTA 220\LetterCaseConversion\obj\Debug\netcoreapp3.1\LetterCaseConversion.dll
+C:\Users\donal\OneDrive\MSSA\ISTA 220\LetterCaseConversion\obj\Debug\netcoreapp3.1\LetterCaseConversion.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LetterCaseConversion\bin\Debug\netcoreapp3.1\LetterCaseConversion.exe
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LetterCaseConversion\bin\Debug\netcoreapp3.1\LetterCaseConversion.deps.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LetterCaseConversion\bin\Debug\netcoreapp3.1\LetterCaseConversion.runtimeconfig.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LetterCaseConversion\bin\Debug\netcoreapp3.1\LetterCaseConversion.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LetterCaseConversion\bin\Debug\netcoreapp3.1\LetterCaseConversion.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LetterCaseConversion\bin\Debug\netcoreapp3.1\LetterCaseConversion.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LetterCaseConversion\obj\Debug\netcoreapp3.1\LetterCaseConversion.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LetterCaseConversion\obj\Debug\netcoreapp3.1\LetterCaseConversion.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LetterCaseConversion\obj\Debug\netcoreapp3.1\LetterCaseConversion.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LetterCaseConversion\obj\Debug\netcoreapp3.1\LetterCaseConversion.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LetterCaseConversion\obj\Debug\netcoreapp3.1\LetterCaseConversion.pdb

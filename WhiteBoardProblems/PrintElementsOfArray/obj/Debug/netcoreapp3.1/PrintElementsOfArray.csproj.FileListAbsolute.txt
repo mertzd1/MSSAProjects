@@ -1,0 +1,10 @@
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\PrintElementsOfArray\bin\Debug\netcoreapp3.1\PrintElementsOfArray.exe
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\PrintElementsOfArray\bin\Debug\netcoreapp3.1\PrintElementsOfArray.deps.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\PrintElementsOfArray\bin\Debug\netcoreapp3.1\PrintElementsOfArray.runtimeconfig.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\PrintElementsOfArray\bin\Debug\netcoreapp3.1\PrintElementsOfArray.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\PrintElementsOfArray\bin\Debug\netcoreapp3.1\PrintElementsOfArray.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\PrintElementsOfArray\bin\Debug\netcoreapp3.1\PrintElementsOfArray.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\PrintElementsOfArray\obj\Debug\netcoreapp3.1\PrintElementsOfArray.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\PrintElementsOfArray\obj\Debug\netcoreapp3.1\PrintElementsOfArray.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\PrintElementsOfArray\obj\Debug\netcoreapp3.1\PrintElementsOfArray.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\PrintElementsOfArray\obj\Debug\netcoreapp3.1\PrintElementsOfArray.pdb

@@ -1,0 +1,13 @@
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RevomeDuplicatesFromStringv2\bin\Debug\netcoreapp3.1\RevomeDuplicatesFromStringv2.exe
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RevomeDuplicatesFromStringv2\bin\Debug\netcoreapp3.1\RevomeDuplicatesFromStringv2.deps.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RevomeDuplicatesFromStringv2\bin\Debug\netcoreapp3.1\RevomeDuplicatesFromStringv2.runtimeconfig.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RevomeDuplicatesFromStringv2\bin\Debug\netcoreapp3.1\RevomeDuplicatesFromStringv2.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RevomeDuplicatesFromStringv2\bin\Debug\netcoreapp3.1\RevomeDuplicatesFromStringv2.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RevomeDuplicatesFromStringv2\bin\Debug\netcoreapp3.1\RevomeDuplicatesFromStringv2.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RevomeDuplicatesFromStringv2\obj\Debug\netcoreapp3.1\RevomeDuplicatesFromStringv2.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RevomeDuplicatesFromStringv2\obj\Debug\netcoreapp3.1\RevomeDuplicatesFromStringv2.csproj.CoreCompileInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RevomeDuplicatesFromStringv2\obj\Debug\netcoreapp3.1\RevomeDuplicatesFromStringv2.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RevomeDuplicatesFromStringv2\obj\Debug\netcoreapp3.1\RevomeDuplicatesFromStringv2.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RevomeDuplicatesFromStringv2\obj\Debug\netcoreapp3.1\RevomeDuplicatesFromStringv2.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RevomeDuplicatesFromStringv2\obj\Debug\netcoreapp3.1\RevomeDuplicatesFromStringv2.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RevomeDuplicatesFromStringv2\obj\Debug\netcoreapp3.1\RevomeDuplicatesFromStringv2.genruntimeconfig.cache

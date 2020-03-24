@@ -1,0 +1,11 @@
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\ScientistHIndex\bin\Debug\netcoreapp3.1\ScientistHIndex.exe
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\ScientistHIndex\bin\Debug\netcoreapp3.1\ScientistHIndex.deps.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\ScientistHIndex\bin\Debug\netcoreapp3.1\ScientistHIndex.runtimeconfig.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\ScientistHIndex\bin\Debug\netcoreapp3.1\ScientistHIndex.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\ScientistHIndex\bin\Debug\netcoreapp3.1\ScientistHIndex.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\ScientistHIndex\bin\Debug\netcoreapp3.1\ScientistHIndex.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\ScientistHIndex\obj\Debug\netcoreapp3.1\ScientistHIndex.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\ScientistHIndex\obj\Debug\netcoreapp3.1\ScientistHIndex.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\ScientistHIndex\obj\Debug\netcoreapp3.1\ScientistHIndex.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\ScientistHIndex\obj\Debug\netcoreapp3.1\ScientistHIndex.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\ScientistHIndex\obj\Debug\netcoreapp3.1\ScientistHIndex.pdb
