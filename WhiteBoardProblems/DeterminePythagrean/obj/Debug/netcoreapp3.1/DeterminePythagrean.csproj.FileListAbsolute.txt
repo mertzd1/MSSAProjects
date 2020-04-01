@@ -1,0 +1,13 @@
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\DeterminePythagrean\bin\Debug\netcoreapp3.1\DeterminePythagrean.exe
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\DeterminePythagrean\bin\Debug\netcoreapp3.1\DeterminePythagrean.deps.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\DeterminePythagrean\bin\Debug\netcoreapp3.1\DeterminePythagrean.runtimeconfig.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\DeterminePythagrean\bin\Debug\netcoreapp3.1\DeterminePythagrean.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\DeterminePythagrean\bin\Debug\netcoreapp3.1\DeterminePythagrean.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\DeterminePythagrean\bin\Debug\netcoreapp3.1\DeterminePythagrean.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\DeterminePythagrean\obj\Debug\netcoreapp3.1\DeterminePythagrean.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\DeterminePythagrean\obj\Debug\netcoreapp3.1\DeterminePythagrean.csproj.CoreCompileInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\DeterminePythagrean\obj\Debug\netcoreapp3.1\DeterminePythagrean.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\DeterminePythagrean\obj\Debug\netcoreapp3.1\DeterminePythagrean.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\DeterminePythagrean\obj\Debug\netcoreapp3.1\DeterminePythagrean.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\DeterminePythagrean\obj\Debug\netcoreapp3.1\DeterminePythagrean.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\DeterminePythagrean\obj\Debug\netcoreapp3.1\DeterminePythagrean.genruntimeconfig.cache

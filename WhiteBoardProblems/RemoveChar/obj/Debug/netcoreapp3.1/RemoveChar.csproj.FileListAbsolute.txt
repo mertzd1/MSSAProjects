@@ -1,0 +1,13 @@
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RemoveChar\bin\Debug\netcoreapp3.1\RemoveChar.exe
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RemoveChar\bin\Debug\netcoreapp3.1\RemoveChar.deps.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RemoveChar\bin\Debug\netcoreapp3.1\RemoveChar.runtimeconfig.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RemoveChar\bin\Debug\netcoreapp3.1\RemoveChar.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RemoveChar\bin\Debug\netcoreapp3.1\RemoveChar.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RemoveChar\bin\Debug\netcoreapp3.1\RemoveChar.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RemoveChar\obj\Debug\netcoreapp3.1\RemoveChar.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RemoveChar\obj\Debug\netcoreapp3.1\RemoveChar.csproj.CoreCompileInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RemoveChar\obj\Debug\netcoreapp3.1\RemoveChar.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RemoveChar\obj\Debug\netcoreapp3.1\RemoveChar.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RemoveChar\obj\Debug\netcoreapp3.1\RemoveChar.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RemoveChar\obj\Debug\netcoreapp3.1\RemoveChar.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\RemoveChar\obj\Debug\netcoreapp3.1\RemoveChar.genruntimeconfig.cache

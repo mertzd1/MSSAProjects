@@ -1,0 +1,13 @@
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\SoleSurvivor\bin\Debug\netcoreapp3.1\SoleSurvivor.exe
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\SoleSurvivor\bin\Debug\netcoreapp3.1\SoleSurvivor.deps.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\SoleSurvivor\bin\Debug\netcoreapp3.1\SoleSurvivor.runtimeconfig.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\SoleSurvivor\bin\Debug\netcoreapp3.1\SoleSurvivor.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\SoleSurvivor\bin\Debug\netcoreapp3.1\SoleSurvivor.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\SoleSurvivor\bin\Debug\netcoreapp3.1\SoleSurvivor.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\SoleSurvivor\obj\Debug\netcoreapp3.1\SoleSurvivor.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\SoleSurvivor\obj\Debug\netcoreapp3.1\SoleSurvivor.csproj.CoreCompileInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\SoleSurvivor\obj\Debug\netcoreapp3.1\SoleSurvivor.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\SoleSurvivor\obj\Debug\netcoreapp3.1\SoleSurvivor.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\SoleSurvivor\obj\Debug\netcoreapp3.1\SoleSurvivor.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\SoleSurvivor\obj\Debug\netcoreapp3.1\SoleSurvivor.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\SoleSurvivor\obj\Debug\netcoreapp3.1\SoleSurvivor.genruntimeconfig.cache
