@@ -1,0 +1,13 @@
+C:\Users\donal\OneDrive\MSSA\ISTA 421\VectorDistance\bin\Debug\netcoreapp3.1\VectorDistance.exe
+C:\Users\donal\OneDrive\MSSA\ISTA 421\VectorDistance\bin\Debug\netcoreapp3.1\VectorDistance.deps.json
+C:\Users\donal\OneDrive\MSSA\ISTA 421\VectorDistance\bin\Debug\netcoreapp3.1\VectorDistance.runtimeconfig.json
+C:\Users\donal\OneDrive\MSSA\ISTA 421\VectorDistance\bin\Debug\netcoreapp3.1\VectorDistance.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\MSSA\ISTA 421\VectorDistance\bin\Debug\netcoreapp3.1\VectorDistance.dll
+C:\Users\donal\OneDrive\MSSA\ISTA 421\VectorDistance\bin\Debug\netcoreapp3.1\VectorDistance.pdb
+C:\Users\donal\OneDrive\MSSA\ISTA 421\VectorDistance\obj\Debug\netcoreapp3.1\VectorDistance.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\MSSA\ISTA 421\VectorDistance\obj\Debug\netcoreapp3.1\VectorDistance.csproj.CoreCompileInputs.cache
+C:\Users\donal\OneDrive\MSSA\ISTA 421\VectorDistance\obj\Debug\netcoreapp3.1\VectorDistance.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\ISTA 421\VectorDistance\obj\Debug\netcoreapp3.1\VectorDistance.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\ISTA 421\VectorDistance\obj\Debug\netcoreapp3.1\VectorDistance.dll
+C:\Users\donal\OneDrive\MSSA\ISTA 421\VectorDistance\obj\Debug\netcoreapp3.1\VectorDistance.pdb
+C:\Users\donal\OneDrive\MSSA\ISTA 421\VectorDistance\obj\Debug\netcoreapp3.1\VectorDistance.genruntimeconfig.cache
