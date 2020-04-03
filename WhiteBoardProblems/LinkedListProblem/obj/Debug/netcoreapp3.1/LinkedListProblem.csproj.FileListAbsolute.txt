@@ -1,0 +1,13 @@
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LinkedListProblem\bin\Debug\netcoreapp3.1\LinkedListProblem.exe
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LinkedListProblem\bin\Debug\netcoreapp3.1\LinkedListProblem.deps.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LinkedListProblem\bin\Debug\netcoreapp3.1\LinkedListProblem.runtimeconfig.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LinkedListProblem\bin\Debug\netcoreapp3.1\LinkedListProblem.runtimeconfig.dev.json
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LinkedListProblem\bin\Debug\netcoreapp3.1\LinkedListProblem.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LinkedListProblem\bin\Debug\netcoreapp3.1\LinkedListProblem.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LinkedListProblem\obj\Debug\netcoreapp3.1\LinkedListProblem.csprojAssemblyReference.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LinkedListProblem\obj\Debug\netcoreapp3.1\LinkedListProblem.csproj.CoreCompileInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LinkedListProblem\obj\Debug\netcoreapp3.1\LinkedListProblem.AssemblyInfoInputs.cache
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LinkedListProblem\obj\Debug\netcoreapp3.1\LinkedListProblem.AssemblyInfo.cs
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LinkedListProblem\obj\Debug\netcoreapp3.1\LinkedListProblem.dll
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LinkedListProblem\obj\Debug\netcoreapp3.1\LinkedListProblem.pdb
+C:\Users\donal\OneDrive\MSSA\MSSAProjects\WhiteBoardProblems\LinkedListProblem\obj\Debug\netcoreapp3.1\LinkedListProblem.genruntimeconfig.cache
