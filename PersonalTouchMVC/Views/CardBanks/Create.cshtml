@@ -1,0 +1,47 @@
+﻿@model PersonalTouchMVC.Models.CardBank
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>CardBank</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CardId" class="control-label"></label>
+                <input asp-for="CardId" class="form-control" />
+                <span asp-validation-for="CardId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EventId" class="control-label"></label>
+                <select asp-for="EventId" class ="form-control" asp-items="ViewBag.EventId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="CardFrontImagePath" class="control-label"></label>
+                <input asp-for="CardFrontImagePath" class="form-control" />
+                <span asp-validation-for="CardFrontImagePath" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CardBackImagePath" class="control-label"></label>
+                <input asp-for="CardBackImagePath" class="form-control" />
+                <span asp-validation-for="CardBackImagePath" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
